@@ -15,7 +15,7 @@ Modélisation avec réseaux de neurones : création et entraînement d’un mod�
 Ce projet m’a permis de développer mes compétences en data cleaning, feature engineering, deep learning et interprétation des modèles, tout en produisant un cas concret de prévision du risque de crédit, directement pertinent pour le secteur bancaire et financier.
 
 
-Optique d'ameioration:
+Optique d'amelioration:
 
  *identification des variables ayant le plus d’impact sur le risque de défaut, ce qui fournit des informations concrètes pour la prise de décision. et ameliorer l'experience utilisateur pour une integration dans une application
 
